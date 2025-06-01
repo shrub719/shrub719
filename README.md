@@ -4,5 +4,5 @@
 
 
 ## 💡 experience
-- **languages:** Python, JS/TS, C, C++, C#
+- **languages:** Python, JS/TS, C++, C, Rust, C#
 - **tech**: Node.js, React, MongoDB
